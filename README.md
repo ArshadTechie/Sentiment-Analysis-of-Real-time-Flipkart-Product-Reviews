@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentiment Analysis of Real-time Flipkart Product Reviews</title>
 </head>
 <body>
     <h1>Project Objective</h1>
@@ -14,7 +13,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentiment Analysis of Real-time Flipkart Product Reviews</title>
+    
 </head>
 <body>
     <h1>Features</h1>
@@ -25,12 +24,12 @@
         <li><strong>Scalable Deployment:</strong> The application is designed to be easily deployable on AWS Cloud, ensuring scalability and accessibility for a wide range of users.</li>
     </ul>
 
-   <!DOCTYPE html>
+    <<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Getting Started</title>
+
 </head>
 <body>
     <h1>Getting Started</h1>
@@ -44,4 +43,5 @@
     </ol>
 </body>
 </html>
+
 
